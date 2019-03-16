@@ -1,0 +1,38 @@
+.body {
+    margin: 0px auto;
+    width: 960px;
+}
+.col-sm-3 {
+    height: 200px;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    width: 200px;
+}
+.col-sm-9 {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+}
+.container {
+    margin: auto;
+    width: 960px;
+}
+.header {
+    margin: 0 auto;
+    width: 960px;
+}
+img {
+    border: 1px solid #333;
+    height: 200px;
+    margin: 0px auto;
+    padding: 0px;
+    width: 200px;
+}
+p.img {
+    border: 1px solid #333;
+    height: 200px;
+    margin: 0px auto;    
+    padding: 0px;
+    text-align: center;
+}
